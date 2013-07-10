@@ -4,15 +4,15 @@
 	id		= "com.alunny.amazing"
 	version 	= "1.0.0">
 
-	<name>alunnys Amazing App</name>
+	<name>Damien Amazing App</name>
 
 	<description>
-		An Amazing app by alunny
+		An Amazing app by Damien
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://damienvessiere.free.fr"
+		email="damien.vessiere@gmail.com">
+		Damien Vessiere
 	</author>
 
 	<gap:platforms>
